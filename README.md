@@ -2,7 +2,7 @@
 
 # DATA 201 Project — Washington State Electric Vehicle Population
 
-**Student:** Farah Makkawi  
+**Student:** Farah Makkawi, ousmane kandji 
 **Course:** DATA 201 — Data Science Project  
 **Dataset:** Washington State Department of Licensing (DOL) — Electric Vehicle Population Data  
 **Source:** [data.wa.gov](https://data.wa.gov)  
