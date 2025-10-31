@@ -3,6 +3,10 @@
 # DATA 201 Project — Washington State Electric Vehicle Population
 
 **Student:** Farah Makkawi  
+Jonathan Rodriguez Herrera
+Noah Mengesha
+ousmane kandji
+
 **Course:** DATA 201 — Data Science Project  
 **Dataset:** Washington State Department of Licensing (DOL) — Electric Vehicle Population Data  
 **Source:** [data.wa.gov](https://data.wa.gov)  
@@ -118,5 +122,8 @@ Most plug-in hybrid vehicles in Washington have an electric-only range around 53
 
 
 **Author:** Farah Makkawi  
+Jonathan Rodriguez Herrera
+Noah Mengesha
+ousmane kandji 
 **Date:** October 2025  
 **License:** Public data from [data.wa.gov](https://data.wa.gov)
